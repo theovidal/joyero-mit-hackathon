@@ -1,0 +1,10 @@
+# Dependencies
+Hunyuan3D-2
+hy3dgen
+
+# Execution
+venv
+
+# IDE and debugging
+.idea
+.vscode
