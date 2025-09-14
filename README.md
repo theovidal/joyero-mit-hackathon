@@ -2,7 +2,9 @@
 
 **Agentic AI to naturally and quickly prototype 3D models**
 
-This repository contains my submission for the [MIT Global AI Hackathon 2025](https://www.globalaihackathon.com/).
+This repository contains my submission for the [MIT Global AI Hackathon 2025](https://www.globalaihackathon.com/), a 17-hours competition to develop a solution based on AI on different subjects. This project is an answer to the following challenge: "Generative 3D Jewelry Design: From Prompt or Image to Printable Shape".
+
+![Joyero poster](./docs/joyero.png)
 
 ## Installation
 
